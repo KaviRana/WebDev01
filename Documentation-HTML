@@ -1,0 +1,18 @@
+<h1> Heading 01 </h1>
+<br> <!-- this adds a line break. -->
+<h6> Heading 06 </h6>
+<!-- this is a comment -->
+On code pen if you enter ! + tab then you get the boiler plate code. boiler plate code is a basic template.
+..........................................................................................................................
+<!DOCTYPE html> - tells the browser to render this code as an html 5 file
+<html lang="en"> - tells the browser to consider everything between this and closing tag as an html file. 
+<head> - holds informnation about the web page. 
+  <meta charset="UTF-8"> -gives meta data of the document to the browser. utf-8 is the standard encoding. 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title> - tells the title to the browser 
+</head>
+<body>
+  
+</body>
+</html>
