@@ -2,6 +2,9 @@
 <br> <!-- this adds a line break. -->
 <h6> Heading 06 </h6>
 <!-- this is a comment -->
+<p>write a paragraph here </p> 
+<em> makes the test italicises. it is different from the <i> as it makes the texts between the tags stressed. while the i tag only styles the text as italics
+similarly use <strong> instead of <b> i.e. bold. 
 On code pen if you enter ! + tab then you get the boiler plate code. boiler plate code is a basic template.
 ..........................................................................................................................
 <!DOCTYPE html> - tells the browser to render this code as an html 5 file
@@ -16,3 +19,9 @@ On code pen if you enter ! + tab then you get the boiler plate code. boiler plat
   
 </body>
 </html>
+..........................................................................................................................
+INDENTATION 
+html 
+  head 
+  body 
+..........................................................................................................................
