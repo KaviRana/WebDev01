@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Kavita-Rana-Resume-Page</title>
+    <title>index</title>
 </head>
 <body>
   <h1>Kavita Rana</h1>
