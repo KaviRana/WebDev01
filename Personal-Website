@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Personal-Site</title>
+</head>
+<body>
+  <h1>Kavita Rana</h1>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWEosx_IWIGaDgk4MTWWlcCo90biAR-QZzaA&usqp=CAU" alt="Kavita Rana Profile Photo">
+  <p><em>Data Specialist at TAP | Core Committee Member at CSI - Editorial 2022-23 | </em></p>
+  <p>Skills I know : C, Python, Public Speaking , Creative Writing
+  Skills I am learning : Data Visualization using Tableau , Statistics for DS, R , Java.
+  <br>
+  <br>
+  2nd Year BTech Computer Science : Business Analytics and Optimization from University of Petroleum and Energy Studies. 
+  Experience: Editor at CSI 2022-23 & Changemaker under the Career Service Department.
+  <br><br>
+  Aspiring for a career in Data Science and am intent on sharpening career oriented skills. I spend most of my day in library or in cafes reading coding or painting.</p>
+  <hr>
+  <h3>Experience</h3>
+    <ol>
+      <li><strong>Editor</strong> Core Committee Member at Computer Society of India </li>
+       <li> <strong>Data Specialist</strong> at The Apprentice Project</li>
+      <li><strong>Research and Documentation Associate</strong> at Vichar Samiti</li>
+      <li><strong>Changemaker </strong>under the Career Service Department, UPES</li>
+      </ol>
+  <h3>Social Media Links</h3>
+  <p><strong><a href="https://github.com/KaviRana">GitHub</a>| <a href="https://www.linkedin.com/in/kavitarana-datascienceenthusiast/">LinkedIn</a></strong></p>
+  <h3>Projects</h3>
+  <h3>Education</h3>
+  <p><strong>2021 - 2025 | University of Petroleum and Energy Studies</strong></p>
+  <p>Bachelor of Computer Science Engineering- Business Analytics and Optimisation</p>
+  <hr>
+
+</body>
+</html>
